@@ -1,1 +1,4 @@
-pip install streamlit
+streamlit
+langchain
+langchain-openai
+python-dotenv
